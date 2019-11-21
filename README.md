@@ -11,7 +11,7 @@ Research of traffic collisions for the City of Los Angeles from 2010 to 2019 and
 
 # Analysis Overview:
 
-+ **Who?: the demographic distribution of collision victims**
++ **Who? The demographic distribution of collision victims**
 
 ![Ethnicity Ratio](Images/collision_ethnicity_ratio.png)
 
@@ -19,20 +19,15 @@ Research of traffic collisions for the City of Los Angeles from 2010 to 2019 and
 
 ![Avg Age](Images/boxplot_mean_age.png)
 
-+ **When?: the time distribution of collisions**
++ **When? The time distribution of collisions**
 
 ![Month](Images/collision_month_distribution.png)
-
-![Weekday](Images/collision_weekday_distribution.png)
-
-![Hour](Images/collision_hour_distribution.png)
-
 ![Heatmap](Images/collision_heatmap_count.png)
 
 
-+ **Where?: the relationship of location in which collisions occured**
++ **Where? The relationship of location in which collisions occured**
 
-![API](Images/api_map.png)
+![API](Images/api_map.PNG)
 
 
 # Technology Used
