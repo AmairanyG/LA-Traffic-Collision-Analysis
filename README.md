@@ -36,6 +36,7 @@ Research of traffic collisions for the City of Los Angeles from 2010 to 2019 and
 
 
 + **Where? The relationship of location in which collisions occured**
+
 ![API](Images/api_map.PNG)
 
 
