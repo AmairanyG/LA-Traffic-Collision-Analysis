@@ -40,7 +40,7 @@ Research of traffic collisions for the City of Los Angeles from 2010 to 2019 and
 ![API](Images/api_map.PNG)
 
 
-## Development Overview		
+## Development Overview:		
 		
 +	Used Pandas to clean and format the dataset. 
 +	Created a Jupyter Notebook describing the data exploration and cleanup process.
