@@ -1,7 +1,7 @@
 # **LA TRAFFIC ANALYSIS  REPORT** 
 
 
-							by
+							         by
 							
 					   Amairani Garcia, Christian Bourdeau, Shan Huang
 
