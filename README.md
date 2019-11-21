@@ -12,7 +12,15 @@ Research of traffic collisions for the City of Los Angeles from 2010 to 2019 and
 # Analysis Overview:
 
 + **Who?: the demographic distribution of collision victims**
+
+![Ethnicity Ratio](figures/collision_ethnicity_ratio.png)
+
+![Gender](figures/collision_by_gender.png)
+
+![Avg Age](figures/boxplot_mean_age.png)
+
 + **When?: the time distribution of collisions**
+
 + **Where?: the relationship of location in which collisions occured**
 
 
